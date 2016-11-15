@@ -1,0 +1,181 @@
+/* Pure Storage Font: Proxima Nova - Thin */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-thin.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-thin.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-thin.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-thin.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-thin.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 100;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - Light */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-light.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-light.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-light.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-light.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-light.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 200;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - Light It */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-light-it.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-light-it.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-light-it.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-light-it.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-light-it.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: italic;
+  font-weight: 200;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - It */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-it.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-it.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-it.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-it.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-it.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: italic;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - Medium */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-medium.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-medium.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-medium.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-medium.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-medium.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 500;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - Semibold */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-semibold.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-semibold.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-semibold.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-semibold.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-semibold.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 600;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - Semibold It */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-semibold-it.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-semibold-it.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-semibold-it.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-semibold-it.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-semibold-it.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 600;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - Bold It */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-bold-it.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-bold-it.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-bold-it.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-bold-it.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-bold-it.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: italic;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - Bold */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-bold.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-bold.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-bold.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-bold.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-bold.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - Extrabld */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-extrabold.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-extrabold.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-extrabold.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-extrabold.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-extrabold.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 800;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - Black */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-black.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-black.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-black.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-black.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-black.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 900;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - ExCn Light It */
+@font-face {
+  font-family: 'Proxima Nova ExCn';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-excn-light-it.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-excn-light-it.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-excn-light-it.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-excn-light-it.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-excn-light-it.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: italic;
+  font-weight: 200;
+  text-rendering: optimizeLegibility;
+}
+
+/* Pure Storage Font: Proxima Nova - ExCn Semibold It */
+@font-face {
+  font-family: 'Proxima Nova ExCn';
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-excn-semibold-it.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-excn-semibold-it.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-excn-semibold-it.woff2') format('woff2'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-excn-semibold-it.woff') format('woff'), /* Modern Browsers */
+       url('https://app.cdn.lookbookhq.com/fonts/Pure-Storage/proxima-nova-excn-semibold-it.otf') format('opentype'); /* Safari, Android, iOS */
+  font-style: italic;
+  font-weight: 600;
+  text-rendering: optimizeLegibility;
+}

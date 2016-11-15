@@ -1,0 +1,95 @@
+/* GE Healthcare Font: InspiraSans Bold */
+@font-face {
+  font-family: 'GE Inspira Sans';
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-bold.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-bold.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-bold.otf') format('opentype'), /* Safari, Android, iOS */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-bold.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+/* GE Healthcare Font: InspiraSans Bold Italic */
+@font-face {
+  font-family: 'GE Inspira Sans';
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-bold-italic.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-bold-italic.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-bold-italic.otf') format('opentype'), /* Safari, Android, iOS */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-bold-italic.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-style: italic;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+/* GE Healthcare Font: InspiraSans Italic */
+@font-face {
+  font-family: 'GE Inspira Sans';
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-italic.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-italic.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-italic.otf') format('opentype'), /* Safari, Android, iOS */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-italic.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-style: italic;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+/* GE Healthcare Font: InspiraSans Regular */
+@font-face {
+  font-family: 'GE Inspira Sans';
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-regular.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-regular.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-regular.otf') format('opentype'), /* Safari, Android, iOS */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-sans-regular.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+/* GE Healthcare Font: InspiraSerif Bold */
+@font-face {
+  font-family: 'GE Inspira Serif';
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-bold.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-bold.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-bold.otf') format('opentype'), /* Safari, Android, iOS */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-bold.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+/* GE Healthcare Font: InspiraSerif Bold Italic */
+@font-face {
+  font-family: 'GE Inspira Serif';
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-bold-italic.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-bold-italic.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-bold-italic.otf') format('opentype'), /* Safari, Android, iOS */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-bold-italic.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-style: italic;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+/* GE Healthcare Font: InspiraSerif Italic */
+@font-face {
+  font-family: 'GE Inspira Serif';
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-italic.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-italic.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-italic.otf') format('opentype'), /* Safari, Android, iOS */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-italic.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-style: italic;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+/* GE Healthcare Font: InspiraSerif Regular */
+@font-face {
+  font-family: 'GE Inspira Serif';
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-regular.eot'); /* IE9 Compatible */
+  src: url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-regular.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-regular.otf') format('opentype'), /* Safari, Android, iOS */
+       url('https://app.cdn.lookbookhq.com/fonts/GE-Healthcare/ge-inspira-serif-regular.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-style: normal;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
