@@ -1,0 +1,137 @@
+/* ::::: https://cloud.typography.com/6498692/789684/css/fonts.css ::::: */
+
+@font-face {
+	font-family: "Gotham SSm A";
+	font-style: normal;
+	font-weight: 200;
+	src: url('undefined');
+}
+@font-face {
+	font-family: "Gotham SSm B";
+	font-style: normal;
+	font-weight: 200;
+	src: url('undefined');
+}
+@font-face {
+	font-family: "Gotham SSm A";
+	font-style: normal;
+	font-weight: 300;
+	src: url('undefined');
+}
+@font-face {
+	font-family: "Gotham SSm B";
+	font-style: normal;
+	font-weight: 300;
+	src: url('undefined');
+}
+@font-face {
+	font-family: "Gotham SSm A";
+	font-style: normal;
+	font-weight: 400;
+	src: url('undefined');
+}
+@font-face {
+	font-family: "Gotham SSm B";
+	font-style: normal;
+	font-weight: 400;
+	src: url('undefined');
+}
+@font-face {
+	font-family: "Gotham SSm A";
+	font-style: normal;
+	font-weight: 500;
+	src: url('undefined');
+}
+@font-face {
+	font-family: "Gotham SSm B";
+	font-style: normal;
+	font-weight: 500;
+	src: url('undefined');
+}
+@font-face {
+	font-family: "Gotham SSm A";
+	font-style: normal;
+	font-weight: 700;
+	src: url('undefined');
+}
+@font-face {
+	font-family: "Gotham SSm B";
+	font-style: normal;
+	font-weight: 700;
+	src: url('undefined');
+}
+/* ::::: https://admarketing.yahoo.net/rs/118-OEW-181/images/subscribe-field.css ::::: */
+
+html { font-family: sans-serif; }
+body { margin: 0px; }
+audio:not([controls]) { display: none; height: 0px; }
+svg:not(:root) { overflow: hidden; }
+button, input, select, textarea { font: inherit; margin: 0px; }
+button, input { overflow: visible; }
+button, select { text-transform: none; }
+button, html [type="button"], [type="reset"], [type="submit"] {  }
+button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner { border-style: none; padding: 0px; }
+button:-moz-focusring, [type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="submit"]:-moz-focusring { outline: 1px dotted buttontext; }
+.clearfix::after { content: " "; display: block; clear: both; }
+*, *::after, *::before { box-sizing: inherit; }
+html { box-sizing: border-box; }
+body { font-family: "Gotham SSm A","Gotham SSm B",sans-serif ! important; background-color: rgb(64, 0, 144); color: rgb(255, 255, 255); }
+div#form .mktoForm { padding: 0px ! important; }
+div#form form { font-family: "Gotham SSm A","Gotham SSm B",sans-serif ! important; width: 100% ! important; padding: 0px ! important; }
+div#form form .mktoFormRow { width: 100%; }
+div#form form .mktoButtonRow { width: auto; display: block; margin: 0px auto; }
+div#form form .mktoLabel { display: none; }
+div#form form .mktoButton { display: block; height: 35px; line-height: 35px; padding: 0px 15px; font-size: 13px; letter-spacing: 1.5px; text-align: center; text-transform: uppercase; border: medium none; text-decoration: none; transition: all 160ms ease-in-out 0s; margin: 10px auto 0px; font-weight: 500; background: rgb(130, 255, 254) none repeat scroll 0% 0%; color: rgb(45, 13, 83); }
+div#form form .mktoFormCol { min-height: 0px; float: none; margin: 0px ! important; }
+div#form form .mktoOffset { display: none; }
+div#form form .mktoEmailField { background: rgb(45, 13, 83) none repeat scroll 0% 0%; border: medium none; outline: medium none; color: rgb(255, 255, 255); height: 35px; width: 100% ! important; padding-left: 10px; font-size: 11px; max-width: 415px ! important; float: none ! important; }
+div#form form .mktoGutter { display: none; }
+div#form form .mktoFieldWrap { float: none; }
+div#form form .mktoButtonWrap { margin: 0px ! important; }
+/* ::::: https://admarketing.yahoo.net/js/forms2/css/forms2.css ::::: */
+
+#mktoStyleLoaded { background-color: rgb(18, 52, 86); display: none; }
+.mktoForm { text-align: left; }
+.mktoForm .mktoClear { clear: both; float: none; }
+.mktoForm div, .mktoForm span, .mktoForm label, .mktoForm p { text-align: left; margin: 0px; padding: 0px; }
+.mktoForm input, .mktoForm select, .mktoForm textarea { margin: 0px; }
+.mktoForm * { font-family: inherit; }
+.mktoForm .mktoOffset { float: left; height: 1.2em; }
+.mktoForm .mktoGutter { float: left; height: 1.2em; }
+.mktoForm .mktoFieldWrap { float: left; }
+.mktoForm .mktoLabel { float: left; line-height: 1.2em; padding-top: 0.3em; }
+.mktoForm .mktoField { line-height: 1.2em; font-size: 1em; float: left; }
+.mktoForm .mktoAsterix { float: right; color: rgb(191, 0, 0); padding-left: 5px; display: none; }
+.mktoForm .mktoRequiredField .mktoAsterix { display: block; }
+.mktoForm .mktoRequiredField label.mktoLabel { font-weight: bold; }
+.mktoForm input[type="text"], .mktoForm input[type="url"], .mktoForm input[type="email"], .mktoForm input[type="tel"], .mktoForm input[type="number"], .mktoForm input[type="date"] { padding: 0.1em 0.2em; line-height: 1.2em; margin: 0px; }
+.mktoForm input[type="url"], .mktoForm input[type="text"], .mktoForm input[type="date"], .mktoForm input[type="tel"], .mktoForm input[type="email"], .mktoForm input[type="number"], .mktoForm textarea.mktoField, .mktoForm select.mktoField { box-sizing: border-box; }
+.mktoForm .mktoFormRow { clear: both; }
+.mktoForm .mktoFormCol { float: left; position: relative; min-height: 2em; }
+.mktoButtonRow { display: inline-block; position: relative; }
+.mktoForm button.mktoButton { cursor: pointer; margin: 0px; }
+.mktoForm button.mktoButton:disabled { opacity: 0.5; cursor: default; }
+@media only screen and (max-width: 480px) {
+	.mktoForm, .mktoForm * { box-sizing: border-box; padding: 10px; }
+	.mktoForm .mktoGutter, .mktoForm .mktoOffset { display: none; }
+	.mktoForm .mktoFormCol .mktoLabel { text-align: left; width: 100%; }
+	.mktoForm .mktoFormCol { float: none; }
+	.mktoForm .mktoFieldWrap { float: none; }
+	.mktoForm input[type="url"], .mktoForm input[type="text"], .mktoForm input[type="date"], .mktoForm input[type="tel"], .mktoForm input[type="email"], .mktoForm input[type="number"], .mktoForm textarea.mktoField, .mktoForm select.mktoField { width: 100%; height: 1.5em; line-height: 1.5em; font-size: 18px; }
+	.mktoForm .mktoFormRow .mktoField { clear: left; }
+	.mktoForm .mktoFormRow .mktoFormCol { clear: both; }
+	.mktoForm .mktoFormRow .mktoRequiredField .mktoAsterix { float: left; padding-left: 0px; padding-right: 5px; }
+}
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px), only screen and (max-device-height: 480px) {
+	.mktoMobileShow .mktoForm, .mktoForm * { box-sizing: border-box; padding: 10px; }
+}
+/* ::::: https://admarketing.yahoo.net/js/forms2/css/forms2-theme-simple.css ::::: */
+
+#mktoStyleLoaded { color: rgb(18, 52, 86); }
+.mktoForm input[type="text"], .mktoForm input[type="url"], .mktoForm input[type="email"], .mktoForm input[type="tel"], .mktoForm input[type="number"], .mktoForm input[type="date"] {  }
+.mktoForm input[type="text"], .mktoForm input[type="url"], .mktoForm input[type="email"], .mktoForm input[type="tel"], .mktoForm input[type="number"], .mktoForm input[type="date"], .mktoForm textarea.mktoField, .mktoForm select.mktoField { padding: 2px 3px; }
+.mktoForm input[type="text"]:focus, .mktoForm input[type="url"]:focus, .mktoForm input[type="email"]:focus, .mktoForm input[type="tel"]:focus, .mktoForm input[type="number"]:focus, .mktoForm input[type="date"]:focus, .mktoForm select.mktoField:focus, .mktoForm textarea.mktoField:focus {  }
+.mktoForm .mktoButtonWrap.mktoSimple .mktoButton { color: rgb(255, 255, 255); border: 1px solid rgb(117, 174, 76); padding: 0.4em 1em; font-size: 1em; background-color: rgb(153, 196, 124); background-image: linear-gradient(to bottom, rgb(153, 196, 124), rgb(117, 174, 76)); }
+.mktoForm .mktoButtonWrap.mktoSimple .mktoButton:hover { border: 1px solid rgb(68, 127, 25); }
+.mktoForm .mktoButtonWrap.mktoSimple .mktoButton:focus { outline: medium none; border: 1px solid rgb(68, 127, 25); }
+.mktoForm .mktoButtonWrap.mktoSimple .mktoButton:active { background-color: rgb(117, 174, 76); background-image: linear-gradient(to bottom, rgb(117, 174, 76), rgb(153, 196, 124)); }
