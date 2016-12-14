@@ -1,0 +1,176 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+  color: #fff;
+}
+
+strong {
+  font-weight: 600;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  font-size: 12px;
+  line-height: 18px;
+  margin-bottom: 9px;
+}
+
+h1 {
+  padding: 0;
+  margin: 20px 0;
+  font-size: 34px;
+  line-height: 42px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 30px;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a.body-link {
+  text-decoration: underline;
+}
+
+.date {
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.main {
+  margin: 20px auto;
+  width: 1000px;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.main-boiler {
+  display: block;
+}
+
+.text {
+  box-sizing: border-box;
+  padding-right: 10px;
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+  -webkit-flex-shrink: 1;
+  flex-shrink: 1;
+  -webkit-flex-basis: 40%;
+  flex-basis: 40%;
+  -webkit-order: 1;
+  order: 1;
+}
+
+.image {
+  box-sizing: border-box;
+  overflow: hidden;
+  padding-left: 10px;
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+  -webkit-flex-shrink: 1;
+  flex-shrink: 1;
+  -webkit-flex-basis: 60%;
+  flex-basis: 60%;
+  -webkit-order: 2;
+  order: 2;
+  -webkit-justify-content: center;
+  justify-content: center;
+  height: 640px;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.image-boiler {
+  height: auto;
+}
+
+.image-stacked {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.image img {
+  width: 100%;
+}
+
+.image-ice-yule img {
+  width: 480px;
+}
+
+.image-nye img {
+  width: 460px;
+}
+
+.image-chinese img {
+  width: 460px;
+}
+
+.image-scotland img {
+  width: 500px;
+}
+
+.image-attention img {
+  width: 480px;
+}
+
+.boiler-content {
+  display: -webkit-flex;
+  display: flex;
+}
+
+.boiler-left {
+  margin-right: 20px;
+  -webkit-flex-basis: 60%;
+  flex-basis: 60%;
+}
+
+.boiler-right {
+  margin-left: 20px;
+  -webkit-flex-basis: 40%;
+  flex-basis: 40%;
+}
+
+@media (max-width: 1200px) {
+  .main {
+    display: block;
+    width: auto;
+  }
+  .image {
+    margin: 0 auto;
+    width: 350px;
+  }
+  .image img {
+    width: 100%;
+  }
+  .text {
+    margin: 0 auto;
+    width: 80%;
+  }
+}
+
+@media (max-width: 600px) {
+  .image {
+    width: 250px;
+  }
+  .image img {
+    width: 100%;
+  }
+}
