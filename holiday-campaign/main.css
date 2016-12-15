@@ -156,6 +156,7 @@ a.body-link {
   .image {
     margin: 0 auto;
     width: 350px;
+    height: auto;
   }
   .image img {
     width: 100%;
@@ -169,6 +170,7 @@ a.body-link {
 @media (max-width: 600px) {
   .image {
     width: 250px;
+    height: auto;
   }
   .image img {
     width: 100%;
