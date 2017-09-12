@@ -370,7 +370,7 @@ document.addEventListener('pagechange', function(e) {
     
 document.addEventListener('pagerendered', function(e) {
     if (page === 1 && e.detail.pageNumber === 1) {
-        var message = 'Page changed from ' + page + ' to ' + e.pageNumber + ' on ' + (new Date().toString()); 
+        var message = 'Page 1 loaded on ' + (new Date().toString()); 
     console.log(message);
     document.getElementById("pageStatus").innerText = message;
     }
