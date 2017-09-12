@@ -356,16 +356,21 @@ See https://github.com/adobe-type-tools/cmap-resources
     <div id="printContainer"></div>
     
 <script>
-var page = 0;
+var page = 1;
 
 document.addEventListener('pagechange', function(e) {
     console.log(e);
-  if (e.pageNumber !== e.previousPageNumber) {
-    var message = 'Page changed from ' + e.previousPageNumber + ' to ' + e.pageNumber + ' on ' + (new Date().toString()); 
+  if (e.pageNumber !== page) {
+    var message = 'Page changed from ' + page + ' to ' + e.pageNumber + ' on ' + (new Date().toString()); 
     console.log(message);
     document.getElementById("pageStatus").innerText = message;
     page = e.pageNumber;
   }
+});
+    
+    
+document.addEventListener('pagesinit', function(e) {
+    console.log(e);
 });
 </script>
   </body>
