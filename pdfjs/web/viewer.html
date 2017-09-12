@@ -359,7 +359,6 @@ See https://github.com/adobe-type-tools/cmap-resources
 var page = 1;
 
 document.addEventListener('pagechange', function(e) {
-    console.log(e);
   if (e.pageNumber !== page) {
     var message = 'Page changed from ' + page + ' to ' + e.pageNumber + ' on ' + (new Date().toString()); 
     console.log(message);
@@ -370,7 +369,7 @@ document.addEventListener('pagechange', function(e) {
     
     
 document.addEventListener('pagesinit', function(e) {
-    console.log(e);
+    console.log(new Date().toString());
 });
 </script>
   </body>
