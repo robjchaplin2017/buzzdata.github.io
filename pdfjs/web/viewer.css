@@ -12,7 +12,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#pageStatus { color: #fff; }
+#pageStatus { color: #fff; position: absolute; bottom: 10px; left: 25px; }
 .textLayer {
   position: absolute;
   left: 0;
