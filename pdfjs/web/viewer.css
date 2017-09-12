@@ -490,7 +490,7 @@ html[dir='rtl'] #outerContainer.sidebarOpen > #sidebarContainer {
   position: absolute;
   top: 0;
   right: 0;
-  bottom: 50px;
+  bottom: 100px;
   left: 0;
   min-width: 320px;
   -webkit-transition-duration: 200ms;
