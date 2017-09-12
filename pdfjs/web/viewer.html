@@ -361,7 +361,7 @@ var page = 0;
 document.addEventListener('pagechange', function(e) {
     console.log(e);
   if (e.pageNumber !== e.previousPageNumber) {
-    var message = 'Page changed from ' + page + ' to ' + e.pageNumber + ' on ' + (new Date().toString()); 
+    var message = 'Page changed from ' + e.previousPageNumber + ' to ' + e.pageNumber + ' on ' + (new Date().toString()); 
     console.log(message);
     document.getElementById("pageStatus").innerText = message;
     page = e.pageNumber;
