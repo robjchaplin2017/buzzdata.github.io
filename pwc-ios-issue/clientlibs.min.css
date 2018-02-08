@@ -1,0 +1,43 @@
+/* Code tidied up by ScrapBook */
+.contactlink, .contactLink { text-decoration: underline; color: rgb(109, 110, 113); }
+.contact_image { float: right; margin-top: 5px; }
+.rightrailcontact .row, .rightrailcontact .row::before, .row::after { box-sizing: border-box; }
+.rightrailcontact div, .rightrailcontact div::before, .rightrailcontact div::after { box-sizing: border-box; }
+.rightrailcontact { background: transparent none repeat scroll 0% 0%; color: rgb(65, 65, 65); font: 0.8571rem/1.2em arial,helvetica,sans-serif; }
+.rightrailcontact p { line-height: 1.7em; margin: 0px 0px 20px; font-size: 1rem; }
+.rightrailcontact .row { margin-left: -15px; margin-right: -15px; }
+.rightrailcontact h1, .rightrailcontact h2, .rightrailcontact h3, .rightrailcontact h4, .rightrailcontact h5, .rightrailcontact h6, .rightrailcontact .serif { font-family: georgia,serif; font-style: italic; font-weight: normal; color: inherit; }
+.rightrailcontact #scrollcontactheader { font-size: 1.786rem; color: black; font-weight: bold; margin-top: 0px; }
+.rightrailcontact a { color: inherit; text-decoration: underline; }
+.rightrailcontact a:nth-of-type(2) { color: inherit; text-decoration: none; }
+.rightrailcontact a:hover, .rightrailcontact a:focus { text-decoration: none; }
+.rightrailcontact b, .rightrailcontact strong { font-weight: bold; }
+.contactCol p { border-left: 0px none; padding-left: 0px; }
+.contactCol p.noleftline { color: rgb(110, 109, 114); }
+.contactCol p > img.brdOvrid { padding-bottom: 20px; height: 111px; }
+@media (min-width: 768px) {
+  .contactCol p > img.brdOvrid { padding-bottom: 20px; height: 119px; }
+}
+@media (min-width: 992px) {
+  .contactCol p > img.brdOvrid { padding-bottom: 20px; height: 119px; }
+}
+@media (min-width: 1200px) {
+  .contactCol p > img.brdOvrid { padding-bottom: 20px; height: 119px; }
+}
+.rightrailcontact #navBar p, .rightrailcontact #mainFooter p, .rightrailcontact .contactModule p, .rightrailcontact .relatedContentModule p { line-height: 1.35em; }
+.rightrailcontact .rightrails-profile-img { float: left; padding-right: 15px; margin-top: 0px; }
+.rightrailcontact img.right-rails-img { margin-top: 3px; }
+.contactlink, .contactLink { padding-left: 0px; margin-bottom: 5px; margin-top: 20px; }
+@media (max-width: 767px) {
+}
+@media (max-width: 749px) and (orientation: portrait) {
+}
+@media (max-width: 749px) and (orientation: landscape) {
+}
+@media (min-width: 750px) and (max-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+.contactModule a.underline-link { border-bottom: 1px solid rgb(64, 64, 65); color: rgb(64, 64, 65); text-decoration: none; }
+.contactModule a.underline-link:hover { border-bottom: 2px solid rgb(224, 48, 30); color: rgb(64, 64, 65); text-decoration: none; }
+.page-primary-col--red .contactModule a.underline-link:hover { border-bottom: 2px solid rgb(224, 48, 30); color: rgb(64, 64, 65); }
