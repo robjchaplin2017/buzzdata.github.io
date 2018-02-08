@@ -1,0 +1,10 @@
+/* Code tidied up by ScrapBook */
+.sectionpar { width: 95% ! important; }
+#menuBar .container, #footer-wrapper { width: 95% ! important; }
+#logoWrapper { margin-top: -30px; }
+#logoWrapper #logo { display: none; }
+#logoWrapper::before { content: url("pwclogo.png"); margin-left: 15px; }
+#topBarRight, #navBar, #breadcrumbWrapper { display: none; }
+.centerPar { padding-top: 90px; }
+.webtile.section { display: none; }
+.socialfollow.section { display: none; }
