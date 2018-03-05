@@ -1,0 +1,100 @@
+/* Code tidied up by ScrapBook */
+@keyframes empty {
+0% { opacity: 1; }
+}
+@keyframes empty {
+0% { opacity: 1; }
+}
+@keyframes empty {
+0% { opacity: 1; }
+}
+@keyframes fadeIn {
+0% { opacity: 0; }
+100% { opacity: 1; }
+}
+@keyframes fadeIn {
+0% { opacity: 0; }
+100% { opacity: 1; }
+}
+@keyframes fadeIn {
+0% { opacity: 0; }
+100% { opacity: 1; }
+}
+@keyframes fadeOut {
+0% { opacity: 1; }
+100% { opacity: 0; }
+}
+@keyframes fadeOut {
+0% { opacity: 1; }
+100% { opacity: 0; }
+}
+@keyframes fadeOut {
+0% { opacity: 1; }
+100% { opacity: 0; }
+}
+@keyframes backSlideOut {
+25% { opacity: 0.5; transform: translateZ(-500px); }
+75% { opacity: 0.5; transform: translateZ(-500px) translateX(-200%); }
+100% { opacity: 0.5; transform: translateZ(-500px) translateX(-200%); }
+}
+@keyframes backSlideOut {
+25% { opacity: 0.5; transform: translateZ(-500px); }
+75% { opacity: 0.5; transform: translateZ(-500px) translateX(-200%); }
+100% { opacity: 0.5; transform: translateZ(-500px) translateX(-200%); }
+}
+@keyframes backSlideOut {
+25% { opacity: 0.5; transform: translateZ(-500px); }
+75% { opacity: 0.5; transform: translateZ(-500px) translateX(-200%); }
+100% { opacity: 0.5; transform: translateZ(-500px) translateX(-200%); }
+}
+@keyframes backSlideIn {
+0%, 25% { opacity: 0.5; transform: translateZ(-500px) translateX(200%); }
+75% { opacity: 0.5; transform: translateZ(-500px); }
+100% { opacity: 1; transform: translateZ(0px) translateX(0px); }
+}
+@keyframes backSlideIn {
+0%, 25% { opacity: 0.5; transform: translateZ(-500px) translateX(200%); }
+75% { opacity: 0.5; transform: translateZ(-500px); }
+100% { opacity: 1; transform: translateZ(0px) translateX(0px); }
+}
+@keyframes backSlideIn {
+0%, 25% { opacity: 0.5; transform: translateZ(-500px) translateX(200%); }
+75% { opacity: 0.5; transform: translateZ(-500px); }
+100% { opacity: 1; transform: translateZ(0px) translateX(0px); }
+}
+@keyframes scaleToFade {
+100% { opacity: 0; transform: scale(0.8); }
+}
+@keyframes scaleToFade {
+100% { opacity: 0; transform: scale(0.8); }
+}
+@keyframes scaleToFade {
+100% { opacity: 0; transform: scale(0.8); }
+}
+@keyframes goDown {
+0% { transform: translateY(-100%); }
+}
+@keyframes goDown {
+0% { transform: translateY(-100%); }
+}
+@keyframes goDown {
+0% { transform: translateY(-100%); }
+}
+@keyframes scaleUpFrom {
+0% { opacity: 0; transform: scale(1.5); }
+}
+@keyframes scaleUpFrom {
+0% { opacity: 0; transform: scale(1.5); }
+}
+@keyframes scaleUpFrom {
+0% { opacity: 0; transform: scale(1.5); }
+}
+@keyframes scaleUpTo {
+100% { opacity: 0; transform: scale(1.5); }
+}
+@keyframes scaleUpTo {
+100% { opacity: 0; transform: scale(1.5); }
+}
+@keyframes scaleUpTo {
+100% { opacity: 0; transform: scale(1.5); }
+}
